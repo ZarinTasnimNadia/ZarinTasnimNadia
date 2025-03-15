@@ -1,6 +1,6 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Zarin! 👋
 
-Welcome to my GitHub profile! I'm a [Your Role] passionate about [Your Interests].
+Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
 
 ---
 
@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a [Your Role] passionate about [Your Interests
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZarinTasnimNadia&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarinTasnimNadia&layout=compact&theme=radical)
 
 ---
 
