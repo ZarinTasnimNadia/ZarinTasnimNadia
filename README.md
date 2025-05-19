@@ -5,21 +5,21 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies or Skills]**
-- 👯 I’m looking to collaborate on **[Open Source Project or Area]**
-- 💬 Ask me about **[Topics You're Knowledgeable About]**
-- 📫 How to reach me: **[Your Email or Social Links]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+<!--- 🔭 I’m currently working on **[Your Current Projec]**-->
+- 🌱 I’m currently doing **[CS50x and a Web Development course on Udemy]**
+- 👯 I’m looking to collaborate on **[projects related to Web Developement]**
+<!--- 💬 Ask me about **[Topics You're Knowledgeable About]**-->
+- 📫 How to reach me: **[zarin_nadia@yahoo.com]**
+<!--- 😄 Pronouns: **[Your Pronouns]**-->
+<!--- ⚡ Fun fact: **[A Fun Fact About You]**-->
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Your Tech Stack](https://img.shields.io/badge/YourTech-Color?style=for-the-badge&logo=YourTechLogo&logoColor=white)
+<!--![Your Tech Stack](https://img.shields.io/badge/YourTech-Color?style=for-the-badge&logo=YourTechLogo&logoColor=white)-->
 
-[Add more badges for tech you use]
+<!--[Add more badges for tech you use]-->
 
 ---
 
@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarin-tasnim-20b8b9322/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-<[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)>
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)>
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)>
 
 ---
 
-⭐️ Inspired by [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<!--⭐️ Inspired by [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)>
