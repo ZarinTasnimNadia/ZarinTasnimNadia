@@ -40,14 +40,14 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 ---
 
 ⭐️ Inspired by [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)-->
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
   <div style="flex: 1; margin-right: 20px;">
     Hi there, I'm Zarin! 👋<br><br>
     Welcome to my GitHub profile!<br>
     I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://clipart-library.com/images/rcjr66E9i.gif" alt="Animated Cat" width="150">
+    <img src="https://clipart-library.com/images/rcjr66E9i.gif" alt="Animated Cat" width="150" style="margin-top: 0;">
   </div>
 </div>
 
