@@ -1,7 +1,7 @@
 <!--
-### Hi there, I'm Zarin! 👋
+### Hi there, I'm Zarin! 
 
-Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
+Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes. 
 
 ---
 
@@ -41,10 +41,10 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 
 ⭐️ Inspired by [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)-->
 
-### Hi there, I'm Zarin! 👋
+### Hi there, I'm Zarin! ฅᨐฅ
 ---
-Welcome to my GitHub profile! <br>
-I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
+Welcome to my GitHub profile! 𔓘 <br>
+I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes. 🐾
 <div align="left"><img src="https://clipart-library.com/images/rcjr66E9i.gif" alt="Animated Cat" width="200"></div>
 
 
