@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 
 ---
 
-### 🛠️ Tech Stack
+<!--### 🛠️ Tech Stack-->
 
 <!--![Your Tech Stack](https://img.shields.io/badge/YourTech-Color?style=for-the-badge&logo=YourTechLogo&logoColor=white)-->
 
