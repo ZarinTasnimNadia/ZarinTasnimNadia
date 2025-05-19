@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarinTasnimNadia&show_icons=true&private=true&token=YOUR_TOKEN)](https://github.com/ZarinTasnimNadia/github-readme-stats))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZarinTasnimNadia&show_icons=true&private=true&token=YOUR_TOKEN)](https://github.com/ZarinTasnimNadia/github-readme-stats))
 
-![Top Languages]([![Top Langs](https://github-readme-stats.denvercoder1.com/api/top-langs/?username=ZarinTasnimNadia&layout=compact)](https://github.com/ZarinTasnimNadia/github-readme-stats))
+![Top Languages](https://github-readme-stats.denvercoder1.com/api/top-langs/?username=ZarinTasnimNadia&layout=compact)](https://github.com/ZarinTasnimNadia/github-readme-stats))
 
 ---
 
