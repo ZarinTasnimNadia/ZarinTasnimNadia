@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
 
 
-<img src="https://clipart-library.com/images/rcjr66E9i.gif" alt="Animated Cat" width="200">
+<div align="right"><img src="https://clipart-library.com/images/rcjr66E9i.gif" alt="Animated Cat" width="200"></div>
 
 
 ---
@@ -77,7 +77,9 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/zarin-tasnim-20b8b9322/)
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/682260c5-3bce-45ea-8a01-d1d6a3c3b069/d9bdp4u-ca4b3a92-3235-4f30-8ccc-85b39c670827.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82ODIyNjBjNS0zYmNlLTQ1ZWEtOGEwMS1kMWQ2YTNjM2IwNjkvZDliZHA0dS1jYTRiM2E5Mi0zMjM1LTRmMzAtOGNjYy04NWIzOWM2NzA4MjcuZ2lmIn1dXX0.l60L9Q1R3cBu6IRiiYlcBe_5aa9l3XeWO8GFn4Ft4yE" alt="Animated Cat" width="200">
+---
+
+<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/682260c5-3bce-45ea-8a01-d1d6a3c3b069/d9bdp4u-ca4b3a92-3235-4f30-8ccc-85b39c670827.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82ODIyNjBjNS0zYmNlLTQ1ZWEtOGEwMS1kMWQ2YTNjM2IwNjkvZDliZHA0dS1jYTRiM2E5Mi0zMjM1LTRmMzAtOGNjYy04NWIzOWM2NzA4MjcuZ2lmIn1dXX0.l60L9Q1R3cBu6IRiiYlcBe_5aa9l3XeWO8GFn4Ft4yE" alt="Animated Cat" width="200"></div>
 
 
 
