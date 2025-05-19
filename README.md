@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 ### Hi there, I'm Zarin! 👋
 
 Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
+
 ![Animated Cat](https://i.imgur.com/rcjr66E9i.gif)
 
 ---
