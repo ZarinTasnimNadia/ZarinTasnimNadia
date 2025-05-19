@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about
 
 Welcome to my GitHub profile! I'm a Computer Science Undergrade passionate about everything involving cats, foods and codes.
 
-![Animated Cat](https://i.imgur.com/rcjr66E9i.gif)
+<img src="https://i.imgur.com/rcjr66E9i.gif" alt="Animated Cat" width="200">
 
 ---
 
